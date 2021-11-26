@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spayfer
 - 👀 I’m interested in cloud computing solutions, outdoor sports (mountain biking, climbing, snowboarding, triathlon, paddleboarding, backpacking), philosophy, sci-fi and spy novels, all things space travel, full-spectrum communications systems, steam education equity
-- 🌱 I’m currently learning LXC/LXD.
+- 🌱 I’m currently learning python scripting.
 - 💞️ I’m looking to collaborate on home coding/IOT lab with/for my children.
 - 📫 How to reach me: payfer.scott@gmail.com
 
